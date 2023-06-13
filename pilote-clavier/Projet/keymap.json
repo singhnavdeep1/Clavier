@@ -1,0 +1,618 @@
+{
+    "layers": [
+        {
+            "name": "layers0",
+            "keys": [
+                {
+                    "physicalKey": "ArrowUp",
+                    "layers": "1"
+                },
+                {
+                    "physicalKey": "ArrowDown",
+                    "layers": "2"
+                },
+                {
+                    "physicalKey":"ArrowRight",
+                    "layers": "3"
+                },
+                {
+                    "physicalKey": "Space",
+                    "Key": "Space",
+                    "Hold": "Space"
+                },
+                {
+                    "physicalKey": "Asterisk",
+                    "Key": "Asterisk",
+                    "Hold": "Asterisk"
+                },
+                {
+                    "physicalKey": "Key_A",
+                    "Key": "Key_A",
+                    "ChangedTo1": "Key_A_Maj",
+                    "ChangedTo2":"Macro_2",
+                    "ChangedTo3":"Key_a_acc1"
+                },
+                {
+                    "physicalKey": "Key_B",
+                    "Key": "Key_B",
+                    "ChangedTo1": "Key_B_Maj"
+                },
+                {
+                    "physicalKey": "Key_C",
+                    "Key": "Key_C",
+                    "ChangedTo1": "Key_C_Maj",
+                    "ChangedTo2":"Macro_6"
+
+                },
+                {
+                    "physicalKey": "Key_D",
+                    "Key": "Key_D",
+                    "ChangedTo1": "Key_D_Maj",
+                    "ChangedTo2":"date"
+                },
+                {
+                    "physicalKey": "Key_J",
+                    "Key": "Key_J",
+                    "ChangedTo1": "Key_J_Maj",
+                    "ChangedTo2":"Macro_3",
+                    "ChangedTo3": "Macro_4"
+                },
+                {
+                    "physicalKey": "Key_F",
+                    "Key": "Key_F",
+                    "ChangedTo1": "Key_F_Maj",
+                    "ChangedTo2":"Macro_8"
+                },
+                {
+                    "physicalKey": "Key_G",
+                    "Key": "Key_G",
+                    "ChangedTo1": "Key_G_Maj",
+                    "ChangedTo2":"Macro_11"
+                },
+                {
+                    "physicalKey": "Key_E",
+                    "Key": "Key_E",
+                    "Combo":"Key_E",
+                    "ChangedTo1": "Key_E_Maj",
+                    "ChangedTo3":"Key_e_acc1"
+                },
+                {
+                    "physicalKey": "Key_K",
+                    "Key": "Key_K",
+                    "ChangedTo1": "Key_K_Maj",
+                    "ChangedTo3":"Key_i_acc2"
+                },
+                {
+                    "physicalKey": "Key_L",
+                    "Key": "Key_L",
+                    "ChangedTo1": "Key_L_Maj",
+                    "ChangedTo2":"Macro_5",
+                    "ChangedTo3":"Key_u_acc2"
+
+                },
+                {
+                    "physicalKey": "Key_M",
+                    "Key": "Key_M",
+                    "ChangedTo1": "Key_M_Maj",
+                    "ChangedTo2":"Macro_10"
+                },
+                {
+                    "physicalKey": "Key_N",
+                    "Key": "Key_N",
+                    "ChangedTo1": "Key_N_Maj"
+                },
+                {
+                    "physicalKey": "Key_O",
+                    "Key": "Key_O",
+                    "Combo":"Key_O",
+                    "ChangedTo1": "Key_O_Maj",
+                    "ChangedTo3":"Key_o_acc"
+                },
+                {
+                    "physicalKey": "Key_P",
+                    "Key": "Key_P",
+                    "Combo":"Key_P",
+                    "ChangedTo1": "Key_P_Maj",
+                    "ChangedTo2":"Macro_1"
+                },
+                {
+                    "physicalKey": "Key_I",
+                    "Key": "Key_I",
+                    "Combo": "Key_I",
+                    "ChangedTo1": "Key_I_Maj",
+                    "ChangedTo3":"Key_i_acc1"
+                },
+                {
+                    "physicalKey": "Key_Q",
+                    "Key": "Key_Q",
+                    "ChangedTo1": "Key_Q_Maj"
+                    
+                },
+                {
+                    "physicalKey": "Key_R",
+                    "Key": "Key_R",
+                    "ChangedTo1": "Key_R_Maj",
+                    "ChangedTo3":"Key_e_acc2"
+                },
+                {
+                    "physicalKey": "Key_S",
+                    "Key": "Key_S",
+                    "ChangedTo1": "Key_S_Maj",
+                    "ChangedTo2":"Macro_7",
+                    "ChangedTo3":"supprimer"
+
+                },
+                {
+                    "physicalKey": "Key_T",
+                    "Key": "Key_T",
+                    "ChangedTo1": "Key_T_Maj",
+                    "ChangedTo3":"Key_e_acc3"
+                },
+                {
+                    "physicalKey": "Key_U",
+                    "Key": "Key_U",
+                    "ChangedTo1": "Key_U_Maj",
+                    "ChangedTo3":"Key_u_acc1"
+                },
+                {
+                    "physicalKey": "Key_V",
+                    "Key": "Key_V",
+                    "Hold":"Key_V",
+                    "ChangedTo1": "Key_V_Maj"
+                },
+                {
+                    "physicalKey": "Key_H",
+                    "Key": "Key_H",
+                    "Combo":"Key_H",
+                    "ChangedTo1": "Key_H_Maj",
+                    "ChangedTo2":"heure"
+                },
+                {
+                    "physicalKey": "Key_W",
+                    "Key": "Key_W",
+                    "Combo":"Key_W",
+                    "ChangedTo1": "Key_W_Maj",
+                    "ChangedTo2": "Macro_9"
+                },
+                {
+                    "physicalKey": "Key_X",
+                    "Key": "Key_X",
+                    "ChangedTo1": "Key_X_Maj"
+                },
+                {
+                    "physicalKey": "Key_Y",
+                    "Key": "Key_Y",
+                    "ChangedTo1": "Key_Y_Maj",
+                    "ChangedTo2": "Macro_12",
+                    "ChangedTo3":"Key_e_acc4"
+                },
+                {
+                    "physicalKey": "Key_Z",
+                    "Key": "Key_Z",
+                    "ChangedTo1": "Key_Z_Maj",
+                    "ChangedTo3":"Key_a_acc2"
+                },
+                {
+                    "physicalKey":"Comma",
+                    "Key":"Comma",
+                    "ChangedTo1":"Question"
+                },
+                {
+                    "physicalKey":"Semicolon",
+                    "Key":"Semicolon",
+                    "ChangedTo1":"Period"
+                }
+                ,
+                {
+                    "physicalKey":"Colon",
+                    "Key":"Colon",
+                    "ChangedTo1":"Slash"
+                },
+                {
+                    "physicalKey":"Exclamation",
+                    "Key":"Exclamation",
+                    "ChangedTo2":"Percent"
+                },
+                {
+                    "physicalKey":"Ampersand",
+                    "Key":"Ampersand",
+                    "ChangedTo1":"Backquote",
+                    "ChangedTo2":"At"
+                },
+                {
+                    "physicalKey":"Double_Quote",
+                    "Key":"Double_Quote",
+                    "ChangedTo1":"Number_Sign"
+                },
+                {
+                    "physicalKey":"Quote",
+                    "Key":"Quote",
+                    "ChangedTo1":"Left_Brace"
+                },
+                {
+                    "physicalKey":"Left_Parenthesis",
+                    "Key":"Left_Parenthesis",
+                    "ChangedTo1":"BracketLeft"
+                },
+                {
+                    "physicalKey":"Minus",
+                    "Key":"Minus",
+                    "ChangedTo1":"Vertical_Bar"
+                },
+                {
+                    "physicalKey":"Underscore",
+                    "Key":"Underscore",
+                    "ChangedTo1":"Backslash"
+                },
+                {
+                    "physicalKey":"Right_Parenthesis",
+                    "Key":"Right_Parenthesis",
+                    "ChangedTo1":"BracketRight"
+                },
+                {
+                    "physicalKey":"Equal",
+                    "Key":"Equal",
+                    "ChangedTo1":"Right_Brace",
+                    "ChangedTo2":"Plus"
+                },
+                {
+                    "physicalKey":"Key_OE",
+                    "Key":"Key_OE",
+                    "ResultCombo1":"Key_OE"
+                },
+                {
+                    "physicalKey":"Key_PI",
+                    "Key":"Key_PI",
+                    "ResultCombo2":"Key_PI"
+                },
+                {
+                    "physicalKey":"Key_HW",
+                    "Key":"Key_HW",
+                    "ResultCombo3" :"Key_HW"
+                }
+                    
+            ]
+        },
+        {
+            "name": "layers1",
+            "keys": [
+                {
+                    "physicalKey": "ArrowLeft",
+                    "layers": "0"
+                },
+                {
+                    "physicalKey": "ArrowDown",
+                    "layers": "2"
+                },
+                {
+                    "physicalKey":"ArrowRight",
+                    "layers": "3"
+                },
+                {
+                    "physicalKey": "Space",
+                    "Key": "Space",
+                    "Hold": "Space"
+                },
+                {
+                    "physicalKey": "Key_A",
+                    "Key": "Key_Q",
+                    "ChangedTo1":"Key_a_acc1"
+                },
+                {
+                    "physicalKey": "Key_Z",
+                    "Key": "Key_W",
+                    "ChangedTo1":"Key_a_acc2"
+                },
+                {
+                    "physicalKey": "Key_E",
+                    "Key": "Key_E",
+                    "ChangedTo1":"Key_e_acc1"
+                },
+                {
+                    "physicalKey": "Key_R",
+                    "Key": "Key_R",
+                    "ChangedTo1":"Key_e_acc2"
+                },
+                {
+                    "physicalKey": "Key_T",
+                    "Key": "Key_T",
+                    "ChangedTo1":"Key_e_acc3"
+                },
+                {
+                    "physicalKey": "Key_Y",
+                    "Key": "Key_Y",
+                    "ChangedTo1":"Key_e_acc4"
+                },
+                {
+                    "physicalKey": "Key_U",
+                    "Key": "Key_U",
+                    "ChangedTo1":"Key_u_acc1"
+                },
+                {
+                    "physicalKey": "Key_I",
+                    "Key": "Key_I",
+                    "ChangedTo1":"Key_i_acc1"
+                },
+                {
+                    "physicalKey": "Key_O",
+                    "Key": "Key_O",
+                    "ChangedTo1":"Key_o_acc"
+                },
+                {
+                    "physicalKey": "Key_P",
+                    "Key": "Key_P"
+                },
+                {
+                    "physicalKey": "Key_Q",
+                    "Key": "Key_A"
+                },
+                {
+                    "physicalKey": "Key_S",
+                    "Key": "Key_S"
+                },
+                {
+                    "physicalKey": "Key_D",
+                    "Key": "Key_D"
+                },
+                {
+                    "physicalKey": "Key_F",
+                    "Key": "Key_F"
+                },
+                {
+                    "physicalKey": "Key_G",
+                    "Key": "Key_G"
+                },
+                {
+                    "physicalKey": "Key_H",
+                    "Key": "Key_H"
+                },
+                {
+                    "physicalKey": "Key_J",
+                    "Key": "Key_J",
+                    "ChangedTo1":"Key_u_acc2",
+                    "Combo" : "Key_J"
+                },
+                {
+                    "physicalKey": "Key_K",
+                    "Key": "Key_K",
+                    "ChangedTo1":"Key_i_acc2"
+                },
+                {
+                    "physicalKey": "Key_L",
+                    "Key": "Key_L"
+                },
+                {
+                    "physicalKey": "Key_M",
+                    "Key": "Key_M"
+                },
+                {
+                    "physicalKey": "Key_W",
+                    "Key": "Key_Z"
+                },
+                {
+                    "physicalKey": "Key_x",
+                    "Key": "Key_X"
+                },
+                {
+                    "physicalKey": "Key_C",
+                    "Key": "Key_C"
+                },
+                {
+                    "physicalKey": "Key_V",
+                    "Key": "Key_V"
+                },
+                {
+                    "physicalKey": "Key_B",
+                    "Key": "Key_B",
+                    "Combo" : "Key_B"
+                },
+                {
+                    "physicalKey": "Key_N",
+                    "Key": "Key_N"
+                },                
+                {
+                    "physicalKey":"Key_BJ",
+                    "Key":"Key_BJ",
+                    "ResultCombo1":"Key_BJ"
+                }
+            ]
+        },
+        {
+            "name": "layers2",
+            "keys": [
+                {
+                    "physicalKey": "ArrowLeft",
+                    "layers": "0"
+                },
+                {
+                    "physicalKey": "ArrowUp",
+                    "layers": "1"
+                },
+                {
+                    "physicalKey": "Comma",
+                    "Key" : "Comma"
+                },
+                {
+                    "physicalKey": "ArrowDown",
+                    "layers": "2"
+                },
+                {
+                    "physicalKey":"ArrowRight",
+                    "layers": "3"
+                },
+                {
+                    "physicalKey": "Key_A",
+                    "Key": "Digit1"
+                },
+                {
+                    "physicalKey": "Key_Z",
+                    "Key": "Digit2"
+                },
+                {
+                    "physicalKey": "Key_E",
+                    "Key": "Digit3"
+                },
+                {
+                    "physicalKey": "Key_Q",
+                    "Key": "Digit4"
+                },
+                {
+                    "physicalKey": "Key_S",
+                    "Key": "Digit5"
+                },
+                {
+                    "physicalKey": "Key_D",
+                    "Key": "Digit6"
+                },
+                {
+                    "physicalKey": "Key_W",
+                    "Key": "Digit7"
+                },
+                {
+                    "physicalKey": "Key_X",
+                    "Key": "Digit8"
+                },
+                {
+                    "physicalKey": "Key_C",
+                    "Key": "Digit9"
+                },
+                {
+                    "physicalKey": "Key_V",
+                    "Key": "Digit0"
+                }
+
+                
+                
+
+            ]
+        },
+        {
+            "name": "layers3",
+            "keys": [
+                {
+                    "physicalKey": "ArrowLeft",
+                    "layers": "0"
+                },
+                {
+                    "physicalKey": "ArrowUp",
+                    "layers": "1"
+                },
+                {
+                    "physicalKey": "ArrowDown",
+                    "layers": "2"
+                },
+                {
+                    "physicalKey": "Key_A",
+                    "Key": "Key_A",
+                    "ChangedTo1" :"Key_P"
+                    
+                },
+                {
+                    "physicalKey": "Key_C",
+                    "Key": "Key_C",
+                    "ChangedTo1" :"Key_V"
+                },
+                {
+                    "physicalKey": "Key_D",
+                    "Key": "Key_D",
+                    "ChangedTo1" :"Key_K"
+                },
+                {
+                    "physicalKey": "Key_E",
+                    "Key": "Key_E",
+                    "ChangedTo1" :"Key_I"
+                },
+                {
+                    "physicalKey": "Key_F",
+                    "Key": "Key_F",
+                    "ChangedTo1" :"Key_J"
+                },
+                {
+                    "physicalKey": "Key_G",
+                    "Key": "Key_G",
+                    "ChangedTo1":"Key_H"
+                },
+                {
+                    "physicalKey": "Key_Q",
+                    "Key": "Key_Q",
+                    "ChangedTo1" :"Key_M"
+                },
+                {
+                    "physicalKey": "Key_R",
+                    "Key": "Key_R",
+                    "ChangedTo1" :"Key_U"
+                },
+                {
+                    "physicalKey": "Key_S",
+                    "Key": "Key_S",
+                    "ChangedTo1" :"Key_L"
+                },
+                {
+                    "physicalKey": "Key_T",
+                    "Key": "Key_T",
+                    "ChangedTo1" :"Key_Y"
+                },
+                {
+                    "physicalKey": "Key_V",
+                    "Key": "Key_V",
+                    "Hold":"Key_V"
+                },
+                {
+                    "physicalKey": "Key_W",
+                    "Key": "Key_W",
+                    "ChangedTo1" :"Key_N"
+                },
+                {
+                    "physicalKey": "Key_X",
+                    "Key": "Key_X",
+                    "ChangedTo1" :"Key_B"
+                },
+                {
+                    "physicalKey": "Key_Z",
+                    "Key": "Key_Z",
+                    "ChangedTo1" :"Key_O"
+                },
+                {
+                    "physicalKey":"Key_Y",
+                    "Key":"Period"
+                },
+                {
+                    "physicalKey":"Key_U",
+                    "Key":"Comma"
+                },
+                {
+                    "physicalKey":"Key_I",
+                    "Key":"Semicolon"
+                },
+                {
+                    "physicalKey":"Key_O",
+                    "Key":"Colon"
+                },
+                {
+                    "physicalKey":"Key_B",
+                    "Key":"Plus"
+                },
+                {
+                    "physicalKey":"Key_N",
+                    "Key":"Equal"
+                },
+                {
+                    "physicalKey":"Key_P",
+                    "Key":"Quote"
+                },
+                {
+                    "physicalKey":"Key_H",
+                    "Key":"Left_Parenthesis"
+                },
+                {
+                    "physicalKey":"Key_J",
+                    "Key":"Right_Parenthesis"
+                },
+                {
+                    "physicalKey":"Key_K",
+                    "Key":"Minus"
+                }
+            ]
+        }
+    ]
+}

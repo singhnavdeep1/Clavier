@@ -1,0 +1,730 @@
+{
+    "Dictionnaire": [
+        
+        {
+            "nom": "Key_A",
+            "code": 65,
+            "sortie": "a"
+        },
+        {
+            "nom": "Key_B",
+            "code": 66,
+            "sortie": "b"
+        },
+        {
+            "nom": "Key_C",
+            "code": 67,
+            "sortie": "c"
+        },
+        {
+            "nom": "Key_D",
+            "code": 68,
+            "sortie": "d"
+        },
+        {
+            "nom": "Key_E",
+            "code": 69,
+            "sortie": "e"
+        },
+        {
+            "nom": "Key_F",
+            "code": 70,
+            "sortie": "f"
+        },
+        {
+            "nom": "Key_G",
+            "code": 71,
+            "sortie": "g"
+        },
+        {
+            "nom": "Key_H",
+            "code": 72,
+            "sortie": "h"
+        },
+        {
+            "nom": "Key_I",
+            "code": 73,
+            "sortie": "i"
+        },
+        {
+            "nom": "Key_J",
+            "code": 74,
+            "sortie": "j"
+        },
+        {
+            "nom": "Key_K",
+            "code": 75,
+            "sortie": "k"
+        },
+        {
+            "nom": "Key_L",
+            "code": 76,
+            "sortie": "l"
+        },
+        {
+            "nom": "Key_M",
+            "code": 77,
+            "sortie": "m"
+        },
+        {
+            "nom": "Key_N",
+            "code": 78,
+            "sortie": "n"
+        },
+        {
+            "nom": "Key_O",
+            "code": 79,
+            "sortie": "o"
+        },
+        {
+            "nom": "Key_P",
+            "code": 80,
+            "sortie": "p"
+        },
+        {
+            "nom": "Key_Q",
+            "code": 81,
+            "sortie": "q"
+        },
+        {
+            "nom": "Key_R",
+            "code": 82,
+            "sortie": "r"
+        },
+        {
+            "nom": "Key_S",
+            "code": 83,
+            "sortie": "s"
+        },
+        {
+            "nom": "Key_T",
+            "code": 84,
+            "sortie": "t"
+        },
+        {
+            "nom": "Key_U",
+            "code": 85,
+            "sortie": "u"
+        },
+        {
+            "nom": "Key_V",
+            "code": 86,
+            "sortie": "v"
+        },
+        {
+            "nom": "Key_W",
+            "code": 87,
+            "sortie": "w"
+        },
+        {
+            "nom": "Key_X",
+            "code": 88,
+            "sortie": "x"
+        },
+        {
+            "nom": "Key_Y",
+            "code": 89,
+            "sortie": "y"
+        },
+        {
+            "nom": "Key_Z",
+            "code": 90,
+            "sortie": "z"
+        },
+        {
+            "nom": "Key_A_Maj",
+            "code": 97,
+            "sortie": "A"
+        },
+        {
+            "nom": "Key_B_Maj",
+            "code": 501,
+            "sortie": "B"
+        },
+        {
+            "nom": "Key_C_Maj",
+            "code":502,
+            "sortie": "C"
+        },
+        {
+            "nom": "Key_D_Maj",
+            "code": 503,
+            "sortie": "D"
+        },
+        {
+            "nom": "Key_E_Maj",
+            "code": 504,
+            "sortie": "E"
+        },
+        {
+            "nom": "Key_F_Maj",
+            "code": 505,
+            "sortie": "F"
+        },
+        {
+            "nom": "Key_G_Maj",
+            "code": 506,
+            "sortie": "G"
+        },
+        {
+            "nom": "Key_H_Maj",
+            "code": 507,
+            "sortie": "H"
+        },
+        {
+            "nom": "Key_I_Maj",
+            "code": 508,
+            "sortie": "I"
+        },
+        {
+            "nom": "Key_J_Maj",
+            "code": 509,
+            "sortie": "J"
+        },
+        {
+            "nom": "Key_K_Maj",
+            "code": 510,
+            "sortie": "K"
+        },
+        {
+            "nom": "Key_L_Maj",
+            "code": 511,
+            "sortie": "L"
+        },
+        {
+            "nom": "Key_M_Maj",
+            "code": 533,
+            "sortie": "M"
+        },
+        {
+            "nom": "Key_N_Maj",
+            "code": 526,
+            "sortie": "N"
+        },
+        {
+            "nom": "Key_O_Maj",
+            "code": 514,
+            "sortie": "O"
+        },
+        {
+            "nom": "Key_P_Maj",
+            "code": 515,
+            "sortie": "P"
+        },
+        {
+            "nom": "Key_Q_Maj",
+            "code": 516,
+            "sortie": "Q"
+        },
+        {
+            "nom": "Key_R_Maj",
+            "code": 527,
+            "sortie": "R"
+        },
+        {
+            "nom": "Key_S_Maj",
+            "code": 518,
+            "sortie": "S"
+        },
+        {
+            "nom": "Key_T_Maj",
+            "code": 528,
+            "sortie": "T"
+        },
+        {
+            "nom": "Key_U_Maj",
+            "code": 531,
+            "sortie": "U"
+        },
+        {
+            "nom": "Key_V_Maj",
+            "code": 534,
+            "sortie": "V"
+        },
+        {
+            "nom": "Key_W_Maj",
+            "code": 530,
+            "sortie": "W"
+        },
+        {
+            "nom": "Key_X_Maj",
+            "code": 529,
+            "sortie": "X"
+        },
+        {
+            "nom": "Key_Y_Maj",
+            "code": 524,
+            "sortie": "Y"
+        },
+        {
+            "nom": "Key_Z_Maj",
+            "code": 536,
+            "sortie": "Z"
+        },
+        {
+            "nom":"Space",
+            "code":32,
+            "sortie":" "
+        },
+        {
+            "nom": "Digit0",
+            "code": 48,
+            "sortie": "0"
+        },
+        {
+            "nom": "Digit1",
+            "code": 49,
+            "sortie": "1"
+        },
+        {
+            "nom": "Digit2",
+            "code": 50,
+            "sortie": "2"
+        },
+        {
+            "nom": "Digit3",
+            "code": 51,
+            "sortie": "3"
+        },
+        {
+            "nom": "Digit4",
+            "code": 52,
+            "sortie": "4"
+        },
+        {
+            "nom": "Digit5",
+            "code": 53,
+            "sortie": "5"
+        },
+        {
+            "nom": "Digit6",
+            "code": 54,
+            "sortie": "6"
+        },
+        {
+            "nom": "Digit7",
+            "code": 55,
+            "sortie": "7"
+        },
+        {
+            "nom": "Digit8",
+            "code": 56,
+            "sortie": "8"
+        },
+        {
+            "nom": "Digit9",
+            "code": 57,
+            "sortie": "9"
+        },
+        {
+            "nom": "Backquote",
+            "code": 192,
+            "sortie": "`"
+        },
+        {
+            "nom": "Minus",
+            "code": 45,
+            "sortie": "-"
+        },
+        {
+            "nom": "Equal",
+            "code": 61,
+            "sortie": "="
+        },
+        {
+            "nom": "BracketLeft",
+            "code": 91,
+            "sortie": "["
+        },
+        {
+            "nom": "BracketRight",
+            "code": 93,
+            "sortie": "]"
+        },
+        {
+            "nom": "Backslash",
+            "code": 92,
+            "sortie": "\\"
+        },
+        {
+            "nom": "Semicolon",
+            "code": 59,
+            "sortie": ";"
+        },
+        {
+            "nom": "Quote",
+            "code": 222,
+            "sortie": "'"
+        },
+        {
+            "nom": "Comma",
+            "code": 44,
+            "sortie": ","
+        },
+        {
+            "nom": "Period",
+            "code": 190,
+            "sortie": "."
+        },
+        {
+            "nom": "Slash",
+            "code": 191,
+            "sortie": "/"
+        },
+        {
+            "nom": "Colon",
+            "code": 513,
+            "sortie": ":"
+        },
+        {
+            "nom": "Question",
+            "code": 600,
+            "sortie": "?"
+        },
+        {
+            "nom": "Ampersand",
+            "code": 150,
+            "sortie": "&"
+        },
+        {
+            "nom": "Double_Quote",
+            "code": 152,
+            "sortie": "\"\""
+        },
+        {
+            "nom": "Left_Parenthesis",
+            "code": 519,
+            "sortie": "("
+        },
+        {
+            "nom": "Underscore",
+            "code": 523,
+            "sortie": "_"
+        },
+        {
+            "nom": "Right_Parenthesis",
+            "code": 522,
+            "sortie": ")"
+        },
+        {
+            "nom": "Number_Sign",
+            "code": 520,
+            "sortie": "#"
+        },
+        {
+            "nom": "Left_Brace",
+            "code": 161,
+            "sortie": "{"
+        },
+        {
+            "nom": "Vertical_Bar",
+            "code": 532,
+            "sortie": "|"
+        },
+        {
+            "nom": "Right_Brace",
+            "code": 162,
+            "sortie": "}"
+        },
+        {
+            "nom": "At",
+            "code": 512,
+            "sortie": "@"
+        },
+        {
+            "nom": "Plus",
+            "code": 521,
+            "sortie": "+"
+        },
+        {
+            "nom": "Asterisk",
+            "code": 151,
+            "sortie": "*"
+        },
+        {
+            "nom": "Percent",
+            "code": 535,
+            "sortie": "%"
+        },
+        {
+            "nom": "ArrowLeft",
+            "code": 37,
+            "action": "←"
+        },
+        {
+            "nom": "ArrowUp",
+            "code": 38,
+            "action": "↑"
+        },
+        {
+            "nom": "ArrowRight",
+            "code": 39,
+            "action": "→"
+        },
+        {
+            "nom": "ArrowDown",
+            "code": 40,
+            "action": "↓"
+        },
+        {
+            "nom": "Exclamation",
+            "code" : 517,
+            "sortie":"!"
+        },
+        {
+            "nom": "F1",
+            "code": 112
+        },
+        {
+            "nom": "F2",
+            "code": 113
+        },
+        {
+            "nom": "F3",
+            "code": 114
+        },
+        {
+            "nom": "F4",
+            "code": 115
+        },
+        {
+            "nom": "F5",
+            "code": 116
+        },
+        {
+            "nom": "F6",
+            "code": 117
+        },
+        {
+            "nom": "F7",
+            "code": 118
+        },
+        {
+            "nom": "F8",
+            "code": 119
+        },
+        {
+            "nom": "F9",
+            "code": 120
+        },
+        {
+            "nom": "F10",
+            "code": 121
+        },
+        {
+            "nom": "F11",
+            "code": 122
+        },
+        {
+            "nom": "F12",
+            "code": 123
+        },
+        {
+            "nom": "Escape",
+            "code": 27
+        },
+        {
+            "nom": "Enter",
+            "code": 13
+        },
+        {
+            "nom": "Tab",
+            "code": 9
+        },
+        {
+            "nom": "Backspace",
+            "code": 8
+        },
+        {
+            "nom": "Insert",
+            "code": 155
+        },
+        {
+            "nom": "Delete",
+            "code": 46
+        },
+        {
+            "nom": "Home",
+            "code": 36
+        },
+        {
+            "nom": "End",
+            "code": 35
+        },
+        {
+            "nom": "PageUp",
+            "code": 33
+        },
+        {
+            "nom": "PageDown",
+            "code": 34
+        },
+        {
+            "nom": "ContextMenu",
+            "code": 525
+        },
+        {
+            "nom": "Pause",
+            "code": 19
+        },
+        {
+            "nom": "CapsLock",
+            "code": 20
+        },
+        {
+            "nom": "NumLock",
+            "code": 144
+        },
+        {
+            "nom": "ScrollLock",
+            "code": 145
+        },
+        {
+            "nom": "Key_e_acc1",
+            "code": 700,
+            "sortie": "é"
+        },
+        {
+            "nom": "Key_e_acc2",
+            "code": 701,
+            "sortie": "è"
+        },
+        {
+            "nom": "Key_e_acc3",
+            "code": 702,
+            "sortie": "ê"
+        },
+        {
+            "nom": "Key_e_acc4",
+            "code": 703,
+            "sortie": "ë"
+        },
+        {
+            "nom": "Key_u_acc1",
+            "code": 704,
+            "sortie": "ù"
+        },
+        {
+            "nom": "Key_u_acc2",
+            "code": 705,
+            "sortie": "ü"
+        },
+        {
+            "nom": "Key_i_acc1",
+            "code": 706,
+            "sortie": "î"
+        },
+        {
+            "nom": "Key_i_acc2",
+            "code": 707,
+            "sortie": "ï"
+        },
+        {
+            "nom": "Key_o_acc",
+            "code": 708,
+            "sortie": "ô"
+        },
+        {
+            "nom": "Key_a_acc1",
+            "code": 709,
+            "sortie": "à"
+        },
+        {
+            "nom": "Key_a_acc2",
+            "code": 710,
+            "sortie": "â"
+        },
+        {
+            "nom": "Key_OE",
+            "code": 711,
+            "sortie": "œ"
+        },
+        {
+            "nom":"date",
+            "code":944,
+            "sortie":"date"
+        },
+        {
+            "nom":"heure",
+            "code":945,
+            "sortie":"heure"
+        },
+        {
+            "nom":"supprimer",
+            "code":946,
+            "sortie":"supprimer"
+        },
+        {
+            "nom":"Macro_1",
+            "code":947,
+            "sortie":"mot de passe"
+        },
+        {
+            "nom":"Macro_2",
+            "code":948,
+            "sortie":"adresse mail"
+        },
+        {
+            "nom":"Macro_3",
+            "code":949,
+            "sortie":"javac"
+        },
+        {
+            "nom":"Macro_4",
+            "code":950,
+            "sortie":"java"
+        },
+        {
+            "nom":"Macro_5",
+            "code":951,
+            "sortie":"ls"
+        },
+        {
+            "nom":"Macro_6",
+            "code":952,
+            "sortie":"cd"
+        },
+        {
+            "nom":"Macro_7",
+            "code":953,
+            "sortie":"System.out.println(\"\")"
+        },
+        {
+            "nom":"Macro_8",
+            "code":954,
+            "sortie":"for (int i = 0 ; i<... ; i++) {"
+        },
+        {
+            "nom":"Macro_9",
+            "code":955,
+            "sortie":"while() {"
+        },
+        {
+            "nom":"Macro_10",
+            "code":956,
+            "sortie":"public static void main () {"
+        },
+        {
+            "nom":"Macro_11",
+            "code":957,
+            "sortie":"gcc -Wall -o "
+        },
+        {
+            "nom":"Macro_12",
+            "code":958,
+            "sortie":"python3"
+        },{
+            "nom":"Key_BJ",
+            "code":959,
+            "sortie":"bonjour"
+        },{
+            "nom":"Key_PI",
+            "code":960,
+            "sortie":"π"
+        },{
+            "nom":"Key_HW",
+            "code":961,
+            "sortie":"Hello World!"
+        }
+    ]
+}
